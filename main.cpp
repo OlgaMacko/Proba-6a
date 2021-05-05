@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "DBPS2\n";
+  cout << "OM\n";
   cout << "DBPS\n";
 }
